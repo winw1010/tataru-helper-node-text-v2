@@ -1,0 +1,1 @@
+# tataru-helper-node-text-ver1.2
