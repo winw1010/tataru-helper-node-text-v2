@@ -1,6 +1,9 @@
 # tataru-helper-node-text-ver.2.0.0
 此為Tataru Helper Node Ver.2.0.0的翻譯對照表，適用於Ver.2.0.0或以上版本
 
+
+## 翻譯回報方法
+
 ## 翻譯回報方法
 1. 申請GitHub帳號，已有帳號的人直接看第2步驟
 2. 按下本專案右上角的綠色Code按鈕，然後按「Download ZIP」即可下載整個專案文件
