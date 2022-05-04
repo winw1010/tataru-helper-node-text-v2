@@ -1,0 +1,18 @@
+[
+    ["ye", "you"],
+    ["thou", "you"],
+    ["thee", "you"],
+
+    ["thy", "your"],
+    ["thyself", "yourself"],
+    ["thine", "yours"],
+
+    ["thou art", "you are"],
+    ["wert", "were"],
+
+    ["hast", "have"],
+    ["hath", "has"],
+
+    ["dost", "do"],
+    ["doth", "does"]
+]
