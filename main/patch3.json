@@ -29,7 +29,12 @@
     ["グランド・ホプロン", "The Hoplon Hoplon", "巨圓盾廣場", "巨盾台"],
     ["建国十二騎士像", "The Architects Architects", "建國十二騎士像", "建国十二骑士像"],
     ["神聖裁判所", "The Tribunal Tribunal", "神聖裁判所", "神圣裁判所"],
-    ["聖アンダリム神学院", "Saint Endalim's Scholasticate Saint Endalim's Scholasticate", "聖安達利姆神學院", "圣恩达利姆神学院"],
+    [
+        "聖アンダリム神学院",
+        "Saint Endalim's Scholasticate Saint Endalim's Scholasticate",
+        "聖安達利姆神學院",
+        "圣恩达利姆神学院"
+    ],
     ["聖ガンリオル占星院", "Athenaeum Astrologicum Athenaeum Astrologicum", "聖甘利歐爾占星院", "圣冈里奥尔占星院"],
     ["聖レマノー大聖堂", "Saint Reymanaud's Cathedral Saint Reymanaud's Cathedral", "聖雷馬諾大聖堂", "圣雷马诺大圣堂"],
     ["ゼーメル伯爵邸", "Dzemael Manor Dzemael Manor", "ゼーメル伯爵宅邸", "泽梅尔伯爵府"],
@@ -41,11 +46,10 @@
 
     ["//comment", "---------エンピレアム", "", ""],
     ["エンピレアム", "Empyreum", "恩匹雷姆", "穹顶皓天"],
-    ["ゴンドゥランボー","Gondelimbaud","N/A","贡德兰博"],
-    ["斧槍通り","The Halberd's Head","斧槍大街","战戟大街"],
-    ["スノースティープ浴場","Snowsteep Springs","N/A","融雪温泉"],
-    ["ダングラン","Dangoulin","N/A","当古兰"],
-    
+    ["ゴンドゥランボー", "Gondelimbaud", "N/A", "贡德兰博"],
+    ["斧槍通り", "The Halberd's Head", "斧槍大街", "战戟大街"],
+    ["スノースティープ浴場", "Snowsteep Springs", "N/A", "融雪温泉"],
+
     ["//comment", "---------クルザス", "", ""],
     ["クルザス", "Coerthas", "克爾札斯", "库尔札斯"],
     ["ファーンデール", "Ferndale", "芬戴爾", "芬戴尔村"],
@@ -125,7 +129,7 @@
     ["ベーンプール南", "South Banepool", "貝恩湖南", "灾祸池南"],
     ["オーカム波止場", "Oakum Landing", "歐卡姆港", "填絮码头"],
     ["槍峡門", "Lancegate", "槍峽門", "枪峡门"],
-    ["聖ガンリオル礼拝堂","Saint Guenriol's Chapel","N/A","圣冈里奥尔礼拜堂"],
+    ["聖ガンリオル礼拝堂", "Saint Guenriol's Chapel", "N/A", "圣冈里奥尔礼拜堂"],
 
     ["//comment", "---------アバラシア", "", ""],
     ["アバラシア", "Abalathia's Spine", "阿巴拉西亞", "阿巴拉提亚"],
@@ -423,7 +427,12 @@
     ["病院長エーベル", "Hospitalier Captain Abel", "院長艾貝爾", "亚伯院长"],
 
     ["//comment", "---------人物(アインハルト)", "", ""],
-    ["ボランドゥアン・ド・アインハルト", "Baurendouin de Haillenarte", "柏蘭杜安・德・艾因哈爾特", "博朗杜安·德·艾因哈特"],
+    [
+        "ボランドゥアン・ド・アインハルト",
+        "Baurendouin de Haillenarte",
+        "柏蘭杜安・德・艾因哈爾特",
+        "博朗杜安·德·艾因哈特"
+    ],
     ["ボランドゥアン", "Baurendouin", "柏蘭杜安", "博朗杜安"],
     ["ステファニヴィアン・ド・アインハルト", "N/A", "斯提法尼比安・德・艾因哈爾特", "斯提法尼比安·德·艾因哈特"],
     ["ステファニヴィアン", "Stephanivien", "斯提法尼比安", "斯特凡尼维安"],
@@ -471,8 +480,9 @@
 
     ["//comment", "---------人物(氷の巫女)", "", ""],
     ["氷の巫女", "N/A", "冰之巫女", "冰之巫女"],
-    ["イゼル・ダングラン", "N/A", "伊賽爾・丹格蘭", "伊塞勒·丹格兰"],
+    ["イゼル・ダングラン", "Ysayle Dangoulain", "伊賽爾・丹格蘭", "伊塞勒·丹格兰"],
     ["イゼル", "Ysayle", "伊賽爾", "伊塞勒"],
+    ["ダングラン", "Dangoulain", "丹格蘭", "丹格兰"],
 
     ["//comment", "---------人物(その他)", "", ""],
     ["エレイズ・プール", "N/A", "艾雷茲・普爾", "艾雷伊兹・普尔"],
