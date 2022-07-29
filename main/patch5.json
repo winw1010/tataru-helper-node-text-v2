@@ -987,16 +987,41 @@
     ["マルクス", "Marx", "馬克斯", "麦喀士"],
     ["９Ｓ：多脚戦車従属", "9S-operated walking fortress", "９Ｓ：多腳戰車從屬", "9S：接入多脚战车"],
 
-    ["８１３Ｐ：拠点防衛ユニット装備", "813P-operated aegis unit", "８１３Ｐ：據點防衛單位裝備", "813P：装备据点防卫装置"],
+    [
+        "８１３Ｐ：拠点防衛ユニット装備",
+        "813P-operated aegis unit",
+        "８１３Ｐ：據點防衛單位裝備",
+        "813P：装备据点防卫装置"
+    ],
     ["８１３Ｐ", "N/A", "８１３Ｐ", "813P"],
-    ["７２４Ｐ：強化型飛行ユニット［A-lpha］", "724P-operated superior flight unit (A-lpha)", "７２４Ｐ：強化型飛行單位［A-lpha］", "724P：强化型飞行装置[A-lpha]"],
+    [
+        "７２４Ｐ：強化型飛行ユニット［A-lpha］",
+        "724P-operated superior flight unit (A-lpha)",
+        "７２４Ｐ：強化型飛行單位［A-lpha］",
+        "724P：强化型飞行装置[A-lpha]"
+    ],
     ["７２４Ｐ", "N/A", "７２４Ｐ", "724P"],
-    ["７６７Ｐ：強化型飛行ユニット［B-eta］", "767P-operated superior flight unit (B-eta)", "７６７Ｐ：強化型飛行單位［B-eta］", "767P：强化型飞行装置[B-eta]"],
+    [
+        "７６７Ｐ：強化型飛行ユニット［B-eta］",
+        "767P-operated superior flight unit (B-eta)",
+        "７６７Ｐ：強化型飛行單位［B-eta］",
+        "767P：强化型飞行装置[B-eta]"
+    ],
     ["７６７Ｐ", "767P 767P", "７６７Ｐ", "767P"],
-    ["７７２Ｐ：強化型飛行ユニット［C-hi］", "772P-operated superior flight unit (C-hi)", "７７２Ｐ：強化型飛行單位［C-hi］", "772P：强化型飞行装置[C-hi]"],
+    [
+        "７７２Ｐ：強化型飛行ユニット［C-hi］",
+        "772P-operated superior flight unit (C-hi)",
+        "７７２Ｐ：強化型飛行單位［C-hi］",
+        "772P：强化型飞行装置[C-hi]"
+    ],
     ["７７２Ｐ", "N/A", "７７２Ｐ", "772P"],
     ["９０５Ｐ", "N/A", "９０５Ｐ", "905P"],
-    ["９０５Ｐ：重陸戦ユニット装備", "905P-operated heavy artillery unit", "９０５Ｐ：重陸戰單位裝備", "905P：装备重型陆战装置"],
+    [
+        "９０５Ｐ：重陸戦ユニット装備",
+        "905P-operated heavy artillery unit",
+        "９０５Ｐ：重陸戰單位裝備",
+        "905P：装备重型陆战装置"
+    ],
     ["オペレーター２１Ｏ", "N/A", "通訊官２１Ｏ", "通信官21O"],
     ["２１Ｏ：自我データ", "21O self-consciousness data", "２１Ｏ：自我資料", "21O：自我数据"],
     ["融合シタ人形タチ", "the Compound", "融合的人偶們", "融合的人偶群"],
