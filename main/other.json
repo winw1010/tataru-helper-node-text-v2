@@ -27,7 +27,12 @@
     ["//comment", "---------ROLE---------", "", ""],
     ["タンク", "N/A", "坦克", "防护职业"],
     ["ヒーラー", "N/A", "治療者", "治疗职业"],
-    ["DPS", "N/A", "DPS", "进攻职业"],
+    ["DPS", "DPS", "DPS", "进攻职业"],
+    ["ファイター系DPS", "physical DPS", "物理DPS", "物理进攻职业"],
+    ["ソーサラー系DPS", "magical ranged DPS", "魔法DPS", "魔法进攻职业"],
+    ["近接物理DPS", "melee DPS", "近戰物理DPS", "近战职业"],
+    ["遠隔物理DPS", "physical ranged DPS", "遠程物理DPS", "远程物理职业"],
+    ["遠隔魔法DPS", "magical ranged DPS", "遠程魔法DPS", "远程魔法职业"],
 
     ["//comment", "---------職業---------", "", ""],
 
