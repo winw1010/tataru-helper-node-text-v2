@@ -1,6 +1,6 @@
 # tataru-helper-node-text-v2
 
-此為 Tataru Helper Node v2.0.0 的翻譯對照表，適用於 Ver.2.0.0 或以上版本
+此為 Tataru Helper Node v2.0.0 的翻譯對照表，適用於 v2.0.0 或以上版本
 
 ## 使用 Tataru Helper Node 回報
 
