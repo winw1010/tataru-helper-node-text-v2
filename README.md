@@ -4,7 +4,7 @@
 
 ## 使用 Tataru Helper Node 回報
 
-1. 點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕
+1. 在 Tataru Helper Node 視窗點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕
 
 ## GitHub 簡易回報方法
 
