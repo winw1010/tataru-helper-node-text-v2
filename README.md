@@ -2,23 +2,6 @@
 
 此為 Tataru Helper Node v2.0.0 的翻譯對照表，適用於 v2.0.0 或以上版本
 
-## 使用 Tataru Helper Node 回報
-
-1. 在 Tataru Helper Node 視窗點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕
-
-## GitHub 簡易回報方法
-
-1. 申請 GitHub 帳號，已有帳號的人直接看第 2 步驟
-2. 按下左上角的「Issues」，再按下右上角的「New issue」(綠色按鈕)，填寫需要修正的詞彙之後按下「Submit new issue」即可
-
-## GitHub 詳細回報方法
-
-1. 申請 GitHub 帳號，已有帳號的人直接看第 2 步驟
-2. 按下本專案右上角的「Code」按鈕(綠色按鈕)，然後按「Download ZIP」即可下載整個專案文件
-3. 下載後開啟文字編輯器來編輯對照表，請依照下方格式來修改，.json 檔可以用記事本開啟，但建議使用 Notepad++進行編輯的動作
-4. 回到https://github.com/winw1010/tataru-helper-node-text-ver.2.0.0 ，登入 Github 帳號後按下右上角的「Fork」將本專案複製到你的帳號裡
-5. 將稍早修改的對照表拖曳上傳到上一步驟 fork 下來的專案並完成 Commit 的動作，然後按下「New pull request」按鈕，再按下「Create pull request」按鈕就能送出修改請求
-
 ## 文件格式
 
 ### chs
@@ -64,6 +47,25 @@ Tataru Helper Node 使用說明書
 ### remain
 
 待整理區
+
+## 翻譯錯誤回報方式
+
+### 使用 Tataru Helper Node 回報
+
+1. 在 Tataru Helper Node 視窗點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕
+
+### GitHub 簡易回報
+
+1. 申請 GitHub 帳號，已有帳號的人直接看第 2 步驟
+2. 按下左上角的「Issues」，再按下右上角的「New issue」(綠色按鈕)，填寫需要修正的詞彙之後按下「Submit new issue」即可
+
+### GitHub 詳細回報
+
+1. 申請 GitHub 帳號，已有帳號的人直接看第 2 步驟
+2. 按下本專案右上角的「Code」按鈕(綠色按鈕)，然後按「Download ZIP」即可下載整個專案文件
+3. 下載後開啟文字編輯器來編輯對照表，請依照下方格式來修改，.json 檔可以用記事本開啟，但建議使用 Notepad++進行編輯的動作
+4. 回到https://github.com/winw1010/tataru-helper-node-text-ver.2.0.0 ，登入 Github 帳號後按下右上角的「Fork」將本專案複製到你的帳號裡
+5. 將稍早修改的對照表拖曳上傳到上一步驟 fork 下來的專案並完成 Commit 的動作，然後按下「New pull request」按鈕，再按下「Create pull request」按鈕就能送出修改請求
 
 ## 特別感謝
 
