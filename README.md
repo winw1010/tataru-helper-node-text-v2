@@ -1,6 +1,7 @@
 # tataru-helper-node-text-v2
 
 此為 Tataru Helper Node v2.0.0 的翻譯對照表，適用於 v2.0.0 或以上版本
+繁體中文翻譯: 巴哈姆特電玩資訊站 夜雪(winw1010)
 
 ## 特別感謝
 
