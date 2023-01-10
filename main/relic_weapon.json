@@ -87,6 +87,24 @@
     ["フヴェルゲルミル", "Hvergelmir", "赫瓦格密爾", "无尽魔源杖"],
     ["ドラコノミコン", "Draconomicon", "巨龍之書", "巨龙之书"],
     ["//comment", "---------武器3", "", ""],
+    ["セインズソード", "Sword of the Twin Thegns", "雙子領主劍", "双子领主之利剑"],
+    ["セインズシールド", "Shield of the Twin Thegns", "雙子領主盾", "双子领主之坚盾"],
+    ["ブラッドエンペラーアクス", "Axe of the Blood Emperor", "鮮血皇帝斧", "鲜血皇帝之巨斧"],
+    ["タイラントディバイダー", "Guillotine of the Tyrant", "暴君斬首劍", "无道暴君之斩首"],
+
+    ["ホワイトザールケーン", "Cane of the White Tsar", "純白沙皇法杖", "纯白沙皇之法杖"],
+    ["ワード・オブ・マグネート", "Word of the Magnate", "巨擘諾言", "绝世巨擘之诺言"],
+    ["ラストエアープラニスフィア", "Sphere of the Last Heir", "末代王儲天球", "末代王储之天球"],
+
+    ["オーバーロードトライデント", "Trident of the Overlord", "霸王三叉戟", "盖世霸王之尖枪"],
+    ["スルタンズフィスト", "Sultan's Fists", "蘇丹對拳", "强权苏丹之对拳"],
+    ["ソーンプリンスブレード", "Spurs of the Thorn Prince", "荊棘王子銳刺", "荆棘亲王之锐刺"],
+
+    ["オウタークボウ", "Bow of the Autarch", "獨裁帝王弓", "独裁帝王之长弓"],
+    ["ダイナストファイア", "Flame of the Dynast", "君主烈火", "王朝君主之烈火"],
+
+    ["ブラックハーンロッド", "Rod of the Black Khan", "漆黑可汗魔杖", "漆黑可汗之魔杖"],
+    ["ブック・オブ・マッドクィーン", "Book of the Mad Queen", "瘋狂女王書卷", "疯狂女王之书卷"],
 
     ["//comment", "---------4.0", "", ""],
     ["エウレカウェポン", "Eureka Weapon", "優雷卡武器", "禁地兵装"],
