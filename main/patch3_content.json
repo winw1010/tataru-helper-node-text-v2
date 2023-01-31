@@ -51,6 +51,10 @@
     ["グブラ幻想図書館", "Great Gubal Library", "格布拉幻想圖書館", "迦巴勒幻想图书馆"],
     ["//comment", "---------事物", "", ""],
     ["ゲルンの託宣", "The Gerun Oracles", "格倫神諭", "格伦神谕"],
+
+    ["六属創世記", "Essences & Permutations#", "六屬創世紀", "六属创世记"],
+    ["新大陸見聞録", "Over the Horizon#", "新大陸見聞錄", "新大陆见闻录"],
+    ["ある彫金師の日記", "leather-bound diary#", "某雕金師的日記", "某雕金匠的日记"],
     ["//comment", "---------ボス", "", ""],
     ["デモンズ・ブックウォール", "The Demon Tome", "惡魔書牆", "恶魔书墙"],
     ["ビブロス", "Byblos", "比布魯斯", "比布鲁斯"],
@@ -148,10 +152,17 @@
 
     ["//comment", "---------稀書回収 グブラ幻想図書館 (Hard)", "", ""],
     ["//comment", "---------事物", "", ""],
-    ["ドラゴンになった少年", "The Boy and the Dragon Gay", "化身為龍的少年", "化身为龙的少年"],
-    ["ある恋の歌", "Of Loves Unrequited", "某首戀歌", "无法实现的爱情"],
-    ["続・新大陸見聞録", "Over the Horizon Redux", "續・新大陸見聞錄", "新大陆见闻录续传"],
-    ["コブラン食文化論", "On the Culinary Applications of Coblyns", "柯普蘭飲食文化論", "矿爬虫能好怎"],
+    ["ドラゴンになった少年", "The Boy and the Dragon Gay#", "化身為龍的少年", "化身为龙的少年"],
+    ["ある恋の歌", "Of Loves Unrequited#", "某首戀歌", "无法实现的爱情"],
+    ["続・新大陸見聞録", "Over the Horizon Redux#", "續・新大陸見聞錄", "新大陆见闻录续传"],
+    ["コブラン食文化論", "On the Culinary Applications of Coblyns#", "柯普蘭飲食文化論", "矿爬虫能好怎"],
+    ["白魔道士会文書", "Proceedings of the Council of Magi#", "白魔導士會文書", "白魔法师会文书"],
+    [
+        "ドラゴンになった少年：初版",
+        "The Boy and the Dragon Gay: A Literary Analysis#",
+        "化身為龍的少年：初版",
+        "化身为龙的少年：初版"
+    ],
     ["//comment", "---------ボス", "", ""],
     ["デモン・オブ・トーム", "Demon of the Tome", "書中惡魔", "书中恶魔"],
     ["リクイドフレイム", "Liquid Flame", "液態火焰", "液态火焰"],
