@@ -43,27 +43,33 @@
                 <span>
                     登入後再次前往
                     <a href="https://cloud.google.com/vision/docs/ocr" target="_blank">Cloud Vision API說明文件</a>
-                    ，展開【文本检测请求】下方的+號
+                    ，展開【设置您的 Google Cloud 项目和身份验证】下方的+號
                 </span>
-                <img src="./img/google-api/gv1.png" alt="" />
             </li>
 
             <li>
                 <span>
-                    點選【设置项目】按鈕(沒看到按鈕的話請按F5重新整理頁面)，依照指示選擇專案(若無專案請點選【+ Create a
-                    new project】建立一個新專案，名字隨意)，選擇後按NEXT繼續
+                    點選【转到“项目选择器”】按鈕，建立一個新專案
                 </span>
-                <img src="./img/google-api/gv2.png" alt="" />
-                <img src="./img/google-api/gv3.png" alt="" />
-                <img src="./img/google-api/gv4.png" alt="" />
-                <img src="./img/google-api/gv5.png" alt="" />
             </li>
 
             <li>
                 <span>
-                    等待一段時間後會顯示這個視窗，按下【DOWNLOAD PRIVATE KEY AS JSON】按鈕下載憑證檔案(.json檔案)
+                    建立專案後點選【启用 API】按鈕，選擇剛剛的項目按下一步啟用
                 </span>
-                <img src="./img/google-api/gv6.png" alt="" />
+            </li>
+
+            <li>
+                <span>
+                    前往
+                    <a
+                        href="https://console.cloud.google.com/apis/api/vision.googleapis.com/credentials"
+                        target="_blank"
+                    >
+                        這裡
+                    </a>
+                    ，點選「建立憑證」建立一個服務帳號(名字隨意取)，建立後進入該服務帳號選擇「密鑰」，選擇「添加密鑰」>「JSON」，然後按下創建即可
+                </span>
             </li>
 
             <li>
