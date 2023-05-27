@@ -78,9 +78,9 @@
     ["管理担当官", "OIC Administrator", "管理官", "部队管理负责人"],
     ["人事担当官", "Personnel officer", "人事官", "部队人事负责人"],
     ["補給担当官", "OIC Quartermaster", "補給官", "部队补给负责人"],
-    ["小隊付甲軍曹", "Storm Squadron Sergeant", "小隊附屬甲軍曹", "分队副漩士"],
-    ["小隊付牙軍曹", "Serpent Squadron Sergeant", "小隊附屬牙軍曹", "分队副牙士"],
-    ["小隊付闘軍曹", "Flame Squadron Sergeant", "小隊附屬鬥軍曹", "分队副耀士"],
+    ["小隊付甲軍曹", "Storm Squadron Sergeant", "小隊的甲軍曹", "分队副漩士"],
+    ["小隊付牙軍曹", "Serpent Squadron Sergeant", "小隊的牙軍曹", "分队副牙士"],
+    ["小隊付闘軍曹", "Flame Squadron Sergeant", "小隊的鬥軍曹", "分队副耀士"],
 
     ["//comment", "---------冒険者小隊", "", ""],
     ["//comment", "---------事物", "", ""],
