@@ -55,7 +55,7 @@ Tataru Helper Node 使用說明書
 
 ## 翻譯錯誤回報方式
 
-在 Tataru Helper Node 視窗點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕
+於 Tataru Helper Node 主視窗點選欲回報的字幕，然後點選【回報翻譯錯誤】按鈕即可
 
 ## GitHub 回報、修改
 
