@@ -59,7 +59,7 @@ Tataru Helper Node 使用說明書
 
 ## GitHub 回報、修改
 
-### 於 GitHub 回報錯誤
+### 回報錯誤
 
 1. 申請 GitHub 帳號，已有帳號的人直接看第 2 步驟
 2. 按下左上角的「Issues」，再按下右上角的「New issue」(綠色按鈕)，填寫需要修正的詞彙之後按下「Submit new issue」即可
