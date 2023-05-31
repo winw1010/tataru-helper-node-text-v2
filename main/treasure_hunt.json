@@ -1,0 +1,22 @@
+[
+    ["//comment", "---------3.0", "", ""],
+    ["アクアポリス", "The Aquapolis", "水城", "水城"],
+
+    ["//comment", "---------4.0", "", ""],
+    ["ウズネアカナル", "The Lost Canals of Uznair", "運河", "运河"],
+    ["ウズネアカナル祭殿", "The Shifting Altars of Uznair", "運河神殿", "运河神殿"],
+    ["ウズネアカナル深層", "The Hidden Canals of Uznair", "運河深層", "运河深层"],
+
+    ["//comment", "---------4.0", "", ""],
+    ["リェー・ギア・ダンジョン", "The Dungeons of Lyhe Ghiah", "利耶・基亞地城", "梦羽宝境"],
+    ["リェー・ギア・ダンジョン祭殿", "The Shifting Oubliettes of Lyhe Ghiah", "利耶・基亞地城神殿", "梦羽宝殿"],
+
+    ["//comment", "---------6.0", "", ""],
+    ["//comment", "---------地區", "", ""],
+    ["エキサイトロン", "The Excitatron 6000", "艾奇賽特隆", "惊奇百宝城"],
+    ["エルピス・ギュムナシオン祭殿", "The Shifting Gymnasion Agonon", "艾爾匹斯體育神殿", "厄尔庇斯体育神殿"],
+    ["//comment", "---------魔物", "", ""],
+    ["カリュプソー", "Calypso", "卡呂普索", "卡吕普索"],
+
+    ["//comment", "DOCUMENT END", "", ""]
+]
