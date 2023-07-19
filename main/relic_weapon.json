@@ -336,7 +336,7 @@
     ["//comment", "---------武器1", "", ""],
     ["マンダヴィル・ソード", "Manderville Sword", "曼達維爾長劍", "曼德维尔长剑"],
     ["マンダヴィル・カイトシールド", "Manderville Kite Shield", "曼達維爾風箏盾", "曼德维尔鸢盾"],
-    ["マンダヴィル・アクス", "Manderville Axe", "曼達維爾巨斧", "曼德维尔巨斧"],
+    ["マンダヴィル・アクス", "Manderville Axe", "曼達維爾戰斧", "曼德维尔战斧"],
     ["マンダヴィル・ツヴァイハンダー", "Manderville Zweihander", "曼達維爾雙手劍", "曼德维尔双手剑"],
     ["マンダヴィル・ガンブレード", "Manderville Gunblade", "曼達維爾銃劍", "曼德维尔枪刃"],
 
@@ -345,13 +345,13 @@
     ["マンダヴィル・トルクエタム", "Manderville Torquetum", "曼達維爾黃道儀", "曼德维尔黄道仪"],
     ["マンダヴィル・ミルプレーヴェ", "Manderville Milpreves", "曼達維爾蛇石針", "曼德维尔蛇石针"],
 
-    ["マンダヴィル・ナックル", "Manderville Knuckles", "曼達維爾利爪", "曼德维尔利爪"],
+    ["マンダヴィル・ナックル", "Manderville Knuckles", "曼達維爾指虎", "曼德维尔指虎"],
     ["マンダヴィル・スピア", "Manderville Spear", "曼達維爾長槍", "曼德维尔长枪"],
     ["マンダヴィル・ナイフ", "Manderville Knives", "曼達維爾匕首", "曼德维尔匕首"],
     ["マンダヴィル・サムライブレード", "Manderville Samurai Blade", "曼達維爾武士刀", "曼德维尔武士刀"],
     ["マンダヴィル・サイズ", "Manderville Scythe", "曼達維爾鐮刀", "曼德维尔镰刀"],
 
-    ["マンダヴィル・ハープボウ", "Manderville Harp Bow", "曼達維爾豎琴弓", "曼德维尔竖琴弓"],
+    ["マンダヴィル・ハープボウ", "Manderville Harp Bow", "曼達維爾琴弓", "曼德维尔琴弓"],
     ["マンダヴィル・リボルバー", "Manderville Revolver", "曼達維爾左輪槍", "曼德维尔左轮枪"],
     ["マンダヴィル・チャクラム", "Manderville Chakrams", "曼達維爾圓月輪", "曼德维尔圆月轮"],
 
@@ -361,7 +361,7 @@
     ["//comment", "---------武器2", "", ""],
     ["マンダヴィル・アメイジング・ソード", "Amazing Manderville Sword", "曼達維爾驚異長劍", "曼德维尔惊异长剑"],
     ["マンダヴィル・アメイジング・カイトシールド", "Amazing Manderville Kite Shield", "曼達維爾驚異風箏盾", "曼德维尔惊异鸢盾"],
-    ["マンダヴィル・アメイジング・アクス", "Amazing Manderville Axe", "曼達維爾驚異巨斧", "曼德维尔惊异巨斧"],
+    ["マンダヴィル・アメイジング・アクス", "Amazing Manderville Axe", "曼達維爾驚異戰斧", "曼德维尔惊异战斧"],
     ["マンダヴィル・アメイジング・ツヴァイハンダー", "Amazing Manderville Zweihander", "曼達維爾驚異雙手劍", "曼德维尔惊异双手剑"],
     ["マンダヴィル・アメイジング・ガンブレード", "Amazing Manderville Gunblade", "曼達維爾驚異銃劍", "曼德维尔惊异枪刃"],
 
@@ -370,13 +370,13 @@
     ["マンダヴィル・アメイジング・トルクエタム", "Amazing Manderville Torquetum", "曼達維爾驚異黃道儀", "曼德维尔惊异黄道仪"],
     ["マンダヴィル・アメイジング・ミルプレーヴェ", "Amazing Manderville Milpreves", "曼達維爾驚異蛇石針", "曼德维尔惊异蛇石针"],
 
-    ["マンダヴィル・アメイジング・ナックル", "Amazing Manderville Knuckles", "曼達維爾驚異利爪", "曼德维尔惊异利爪"],
+    ["マンダヴィル・アメイジング・ナックル", "Amazing Manderville Knuckles", "曼達維爾驚異指虎", "曼德维尔惊异指虎"],
     ["マンダヴィル・アメイジング・スピア", "Amazing Manderville Spear", "曼達維爾驚異長槍", "曼德维尔惊异长枪"],
     ["マンダヴィル・アメイジング・ナイフ", "Amazing Manderville Knives", "曼達維爾驚異匕首", "曼德维尔惊异匕首"],
     ["マンダヴィル・アメイジング・サムライブレード", "Amazing Manderville Samurai Blade", "曼達維爾驚異武士刀", "曼德维尔惊异武士刀"],
     ["マンダヴィル・アメイジング・サイズ", "Amazing Manderville Scythe", "曼達維爾驚異鐮刀", "曼德维尔惊异镰刀"],
 
-    ["マンダヴィル・アメイジング・ハープボウ", "Amazing Manderville Harp Bow", "曼達維爾驚異豎琴弓", "曼德维尔惊异竖琴弓"],
+    ["マンダヴィル・アメイジング・ハープボウ", "Amazing Manderville Harp Bow", "曼達維爾驚異琴弓", "曼德维尔惊异琴弓"],
     ["マンダヴィル・アメイジング・リボルバー", "Amazing Manderville Revolver", "曼達維爾驚異左輪槍", "曼德维尔惊异左轮枪"],
     ["マンダヴィル・アメイジング・チャクラム", "Amazing Manderville Chakrams", "曼達維爾驚異圓月輪", "曼德维尔惊异圆月轮"],
 
@@ -386,7 +386,7 @@
     ["//comment", "---------武器3", "", ""],
     ["マンダヴィル・マジェスティック・ソード", "Majestic Manderville Sword", "曼達維爾威嚴長劍", "曼德维尔威严长剑"],
     ["マンダヴィル・マジェスティック・カイトシールド", "Majestic Manderville Kite Shield", "曼達維爾威嚴風箏盾", "曼德维尔威严鸢盾"],
-    ["マンダヴィル・マジェスティック・アクス", "Majestic Manderville Axe", "曼達維爾威嚴巨斧", "曼德维尔威严巨斧"],
+    ["マンダヴィル・マジェスティック・アクス", "Majestic Manderville Axe", "曼達維爾威嚴戰斧", "曼德维尔威严战斧"],
     ["マンダヴィル・マジェスティック・ツヴァイハンダー", "Majestic Manderville Zweihander", "曼達維爾威嚴雙手劍", "曼德维尔威严双手剑"],
     ["マンダヴィル・マジェスティック・ガンブレード", "Majestic Manderville Gunblade", "曼達維爾威嚴銃劍", "曼德维尔威严枪刃"],
 
@@ -395,13 +395,13 @@
     ["マンダヴィル・マジェスティック・トルクエタム", "Majestic Manderville Torquetum", "曼達維爾威嚴黃道儀", "曼德维尔威严黄道仪"],
     ["マンダヴィル・マジェスティック・ミルプレーヴェ", "Majestic Manderville Milpreves", "曼達維爾威嚴蛇石針", "曼德维尔威严蛇石针"],
 
-    ["マンダヴィル・マジェスティック・ナックル", "Majestic Manderville Knuckles", "曼達維爾威嚴利爪", "曼德维尔威严利爪"],
+    ["マンダヴィル・マジェスティック・ナックル", "Majestic Manderville Knuckles", "曼達維爾威嚴指虎", "曼德维尔威严指虎"],
     ["マンダヴィル・マジェスティック・スピア", "Majestic Manderville Spear", "曼達維爾威嚴長槍", "曼德维尔威严长枪"],
     ["マンダヴィル・マジェスティック・ナイフ", "Majestic Manderville Knives", "曼達維爾威嚴匕首", "曼德维尔威严匕首"],
     ["マンダヴィル・マジェスティック・サムライブレード", "Majestic Manderville Samurai Blade", "曼達維爾威嚴武士刀", "曼德维尔威严武士刀"],
     ["マンダヴィル・マジェスティック・サイズ", "Majestic Manderville Scythe", "曼達維爾威嚴鐮刀", "曼德维尔威严镰刀"],
 
-    ["マンダヴィル・マジェスティック・ハープボウ", "Majestic Manderville Harp Bow", "曼達維爾威嚴豎琴弓", "曼德维尔威严竖琴弓"],
+    ["マンダヴィル・マジェスティック・ハープボウ", "Majestic Manderville Harp Bow", "曼達維爾威嚴琴弓", "曼德维尔威严琴弓"],
     ["マンダヴィル・マジェスティック・リボルバー", "Majestic Manderville Revolver", "曼達維爾威嚴左輪槍", "曼德维尔威严左轮枪"],
     ["マンダヴィル・マジェスティック・チャクラム", "Majestic Manderville Chakrams", "曼達維爾威嚴圓月輪", "曼德维尔威严圆月轮"],
 
