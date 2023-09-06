@@ -46,13 +46,8 @@
             </li>
 
             <li>
-                <h3>啟動時出現listen EADDRINUSE: address already in use 127.0.0.1:8898</h3>
-                <span>
-                    代表127.0.0.1:8898這IP已被電腦上的某個應用程式所佔用，遇到這錯誤的話可以重新開機或是更改本應用程式的port來解決，修改步驟如下：
-                    <br /><br />A. 修改TataruHelper /app-0.9.106裡面的server.json，將port的8898改為其他數值(例如8899)然後重新啟動TataruHelper <br /><br />B.
-                    開啟Node版的應用程式設定，切到系統頁將port改成你剛剛輸入的數值(例如server.json的port是8899，這邊也要輸入8899)，修改後按下儲存設定 <br /><br />C. 如果儲存設定後仍然跳出listen
-                    EADDRINUSE: address already in use的訊息，就嘗試其他的數值(8890、8891、8892......以此類推)，數值5000~65535皆可使用，但TataruHelper和Node的連線設定要一致才行
-                </span>
+                <h3>程式無法自動翻譯</h3>
+                <span>請安裝<a href="https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-6.0.413-windows-x64-installer">.NET 6.0</a></span>
             </li>
 
             <li>
