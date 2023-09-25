@@ -82,6 +82,10 @@
     ["小隊付牙軍曹", "Serpent Squadron Sergeant", "小隊的牙軍曹", "分队副牙士"],
     ["小隊付闘軍曹", "Flame Squadron Sergeant", "小隊的鬥軍曹", "分队副耀士"],
 
+    ["N/A", "flame soldier", "不滅隊士兵", "恒辉队士兵"],
+    ["N/A", "serpent soldier", "雙蛇黨士兵", "双蛇党士兵"],
+    ["N/A", "storm soldier", "黑渦團士兵", "黑涡团士兵"],
+
     ["//comment", "---------冒険者小隊", "", ""],
     ["//comment", "---------事物", "", ""],
     ["ジンクス", "N/A", "吉兆", "吉兆"],
