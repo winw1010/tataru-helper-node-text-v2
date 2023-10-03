@@ -9,7 +9,7 @@
         },
         {
             "Key": "PANEL_TEXT",
-            "PointerPath": [35463968, 104, 592, 768]
+            "PointerPath": [35463968, 104, 592, 512]
         },
         {
             "Key": "CUTSCENE_DETECTOR",
