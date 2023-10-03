@@ -5,11 +5,11 @@
     "signatures": [
         {
             "Key": "PANEL_NAME",
-            "PointerPath": [35463968, 40, 40, 3464, 104, 78, 120, 224]
+            "PointerPath": [35302792, 40, 40, 3464, 104, 78, 120, 224]
         },
         {
             "Key": "PANEL_TEXT",
-            "PointerPath": [35463968, 104, 592, 256]
+            "PointerPath": [35463968, 104, 592, 512]
         },
         {
             "Key": "CUTSCENE_DETECTOR",
