@@ -5,7 +5,7 @@
     "signatures": [
         {
             "Key": "PANEL_NAME",
-            "PointerPath": [35463968, 344, 0, 16, 0, 376, 184, 176, 224]
+            "PointerPath": [35463968, 72, 16, 288, 224]
         },
         {
             "Key": "PANEL_TEXT",
