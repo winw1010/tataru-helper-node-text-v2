@@ -5,11 +5,15 @@
     "signatures": [
         {
             "Key": "PANEL_NAME",
-            "PointerPath": [35463968, 344, 0, 16, 0, 24, 112, 544, 224]
+            "ASMSignature": true,
+            "Value": "488B4708498B5D00498B7728488B3D",
+            "PointerPath": [0, 0, 32, 14504, 544, 218]
         },
         {
             "Key": "PANEL_TEXT",
-            "PointerPath": [35463968, 104, 592, 512]
+            "ASMSignature": true,
+            "Value": "488B4708498B5D00498B7728488B3D",
+            "PointerPath": [0, 0, 32, 14504, 552, 184]
         },
         {
             "Key": "CUTSCENE_DETECTOR",
