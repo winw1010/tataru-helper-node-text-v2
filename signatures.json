@@ -1,21 +1,9 @@
 [
     {
-        "Key": "PANEL_NAME_OLD",
-        "ASMSignature": true,
-        "Value": "488B4708498B5D00498B7728488B3D",
-        "PointerPath": [0, 0, 32, 14504, 544, 218]
-    },
-    {
-        "Key": "PANEL_TEXT_OLD",
-        "ASMSignature": true,
-        "Value": "488B4708498B5D00498B7728488B3D",
-        "PointerPath": [0, 0, 32, 14504, 552, 184]
-    },
-    {
-        "ASMSignature": true,
         "Key": "CHATLOG",
-        "PointerPath": [0, 0, 64, 908],
-        "Value": "488941104488492C4C8949244C89491C4584C07412488B4218488905********48890D"
+        "ASMSignature": true,
+        "Value": "488941104488492C4C8949244C89491C4584C07412488B4218488905********48890D",
+        "PointerPath": [0, 0, 64, 908]
     },
     {
         "Key": "PANEL_NAME",
@@ -38,7 +26,7 @@
     {
         "Key": "CUTSCENE_DETECTOR",
         "ASMSignature": true,
-        "PointerPath": [0, 0],
-        "Value": "488B0D********881D"
+        "Value": "488B0D********881D",
+        "PointerPath": [0, 0]
     }
 ]
