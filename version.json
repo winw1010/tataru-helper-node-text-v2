@@ -1,45 +1,5 @@
 {
     "number": "2.4.0",
     "scu": "\"Chromium\";v=\"116\", \"Not)A;Brand\";v=\"24\", \"Google Chrome\";v=\"116\"",
-    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",
-    "signatures": [
-        {
-            "Key": "PANEL_NAME_OLD",
-            "ASMSignature": true,
-            "Value": "488B4708498B5D00498B7728488B3D",
-            "PointerPath": [0, 0, 32, 14504, 544, 218]
-        },
-        {
-            "Key": "PANEL_TEXT_OLD",
-            "ASMSignature": true,
-            "Value": "488B4708498B5D00498B7728488B3D",
-            "PointerPath": [0, 0, 32, 14504, 552, 184]
-        },
-        {
-            "Key": "PANEL_NAME",
-            "PointerPath": [35463968, 32, 14504, 544, 224]
-        },
-        {
-            "Key": "PANEL_NAME_10",
-            "PointerPath": [35463968, 32, 14504, 544, 224]
-        },
-        {
-            "Key": "PANEL_NAME_11",
-            "PointerPath": [35463968, 32, 14504, 544, 224]
-        },
-        {
-            "Key": "PANEL_TEXT",
-            "PointerPath": [35463968, 104, 592, 0]
-        },
-        {
-            "Key": "CUTSCENE_DETECTOR",
-            "ASMSignature": true,
-            "PointerPath": [0, 0],
-            "Value": "488B0D********881D"
-        },
-        {
-            "Key": "CUTSCENE_TEXT",
-            "PointerPath": [35463968, 104, 592, 0]
-        }
-    ]
+    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
 }
