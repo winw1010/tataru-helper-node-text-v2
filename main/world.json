@@ -99,6 +99,7 @@
 
     ["//comment", "---------霊災", "", ""],
     ["霊災", "Umbral Calamity", "靈災", "灵灾"],
+
     ["第一霊災", "First Umbral Calamity", "第一靈災", "第一灵灾"],
     ["第二霊災", "Second Umbral Calamity", "第二靈災", "第二灵灾"],
     ["第三霊災", "Third Umbral Calamity", "第三靈災", "第三灵灾"],
@@ -107,6 +108,15 @@
     ["第六霊災", "Sixth Umbral Calamity", "第六靈災", "第六灵灾"],
     ["第七霊災", "Seventh Umbral Calamity", "第七靈災", "第七灵灾"],
     ["第八霊災", "Eighth Umbral Calamity", "第八靈災", "第八灵灾"],
+
+    ["N/A", "First Umbral Era", "第一靈災", "第一灵灾"],
+    ["N/A", "Second Umbral Era", "第二靈災", "第二灵灾"],
+    ["N/A", "Third Umbral Era", "第三靈災", "第三灵灾"],
+    ["N/A", "Fourth Umbral Era", "第四靈災", "第四灵灾"],
+    ["N/A", "Fifth Umbral Era", "第五靈災", "第五灵灾"],
+    ["N/A", "Sixth Umbral Era", "第六靈災", "第六灵灾"],
+    ["N/A", "Seventh Umbral Era", "第七靈災", "第七灵灾"],
+    ["N/A", "Eighth Umbral Era", "第八靈災", "第八灵灾"],
 
     ["//comment", "---------氾濫", "", ""],
     ["闇の氾濫", "The Flood of Darkness", "闇之氾濫", "暗之泛滥"],
