@@ -99,6 +99,7 @@
 
     ["//comment", "---------霊災", "", ""],
     ["霊災", "Umbral Calamity", "靈災", "灵灾"],
+    ["N/A", "Umbral Era", "靈災", "灵灾"],
 
     ["第一霊災", "First Umbral Calamity", "第一靈災", "第一灵灾"],
     ["第二霊災", "Second Umbral Calamity", "第二靈災", "第二灵灾"],
