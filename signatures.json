@@ -9,7 +9,7 @@
         "Key": "PANEL_NAME",
         "ASMSignature": true,
         "Value": "488B4708498B5D00498B7728488B3D",
-        "PointerPath": [0, 0, 32, 14504, 544, 226]
+        "PointerPath": [0, 0, 32, 14504, 544, 192, 0]
     },
     {
         "Key": "PANEL_TEXT",
