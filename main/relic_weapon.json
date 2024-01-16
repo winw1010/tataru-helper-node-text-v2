@@ -405,14 +405,14 @@
 
     ["マンダヴィル・マジェスティック・ワンド", "Majestic Manderville Wand", "曼達維爾威嚴幻杖", "曼德维尔威严幻杖"],
     ["マンダヴィル・マジェスティック・コーデックス", "Majestic Manderville Codex", "曼達維爾威嚴魔導典", "曼德维尔威严魔导典"],
-    ["マンダヴィル・マジェスティック・オーラリー", "Majestic Manderville Orrery", "曼達維爾威嚴黃道儀", "曼德维尔威严黄道仪"],
+    ["マンダヴィル・マジェスティック・オーラリー", "Majestic Manderville Orrery", "曼達維爾威嚴太陽儀", "曼德维尔威严太阳仪"],
     ["マンダヴィル・マジェスティック・ウィング", "Majestic Manderville Wings", "曼達維爾威嚴飛翼", "曼德维尔威严飞翼"],
 
     ["マンダヴィル・マジェスティック・フィスト", "Majestic Manderville Fists", "曼達維爾威嚴拳套", "曼德维尔威严拳套"],
     ["マンダヴィル・マジェスティック・スピア", "Majestic Manderville Spear", "曼達維爾威嚴長槍", "曼德维尔威严长枪"],
     ["マンダヴィル・マジェスティック・ナイフ", "Majestic Manderville Knives", "曼達維爾威嚴匕首", "曼德维尔威严匕首"],
     ["マンダヴィル・マジェスティック・サムライブレード", "Majestic Manderville Samurai Blade", "曼達維爾威嚴武士刀", "曼德维尔威严武士刀"],
-    ["マンダヴィル・マジェスティック・ウォーサイズ", "Majestic Manderville War Scythe", "曼達維爾威嚴鐮刀", "曼德维尔威严镰刀"],
+    ["マンダヴィル・マジェスティック・ウォーサイズ", "Majestic Manderville War Scythe", "曼達維爾威嚴戰鐮", "曼德维尔威严战镰"],
 
     ["マンダヴィル・マジェスティック・ハープボウ", "Majestic Manderville Harp Bow", "曼達維爾威嚴琴弓", "曼德维尔威严琴弓"],
     ["マンダヴィル・マジェスティック・ハンドガン", "Majestic Manderville Pistol", "曼達維爾威嚴手槍", "曼德维尔威严手枪"],
@@ -424,28 +424,28 @@
     ["//comment", "---------武器4", "", ""],
     ["マンダヴィラス・ファルシオン", "Mandervillous Falchion", "曼達維爾人彎刃刀", "曼德维尔人弯刃刀"],
     ["マンダヴィラス・カイトシールド", "Mandervillous Kite Shield", "曼達維爾人鳶盾", "曼德维尔人鸢盾"],
-    ["マンダヴィラス・バルディッシュ", "Mandervillous Bardiche", "曼達維爾人巨斧", "曼德维尔人巨斧"],
+    ["マンダヴィラス・バトルアクス", "Mandervillous Battleaxe", "曼達維爾人戰斧", "曼德维尔人战斧"],
     ["マンダヴィラス・グレートソード", "Mandervillous Greatsword", "曼達維爾人巨劍", "曼德维尔人巨剑"],
-    ["マンダヴィラス・バヨネット", "Mandervillous Bayonet", "曼達維爾人刺刃", "曼德维尔人刺刃"],
+    ["マンダヴィラス・ガンブレード", "Mandervillous Gunblade", "曼達維爾人銃劍", "曼德维尔人枪刃"],
 
-    ["マンダヴィラス・ワンド", "Mandervillous Wand", "曼達維爾人幻杖", "曼德维尔人幻杖"],
+    ["マンダヴィラス・ケーン", "Mandervillous Cane", "曼達維爾人牧杖", "曼德维尔人牧杖"],
     ["マンダヴィラス・コーデックス", "Mandervillous Codex", "曼達維爾人魔導典", "曼德维尔人魔导典"],
-    ["マンダヴィラス・オーラリー", "Mandervillous Orrery", "曼達維爾人黃道儀", "曼德维尔人黄道仪"],
+    ["マンダヴィラス・トルクエタム", "Mandervillous Torquetum", "曼達維爾人黃道儀", "曼德维尔人黄道仪"],
     ["マンダヴィラス・ウィング", "Mandervillous Wings", "曼達維爾人飛翼", "曼德维尔人飞翼"],
 
     ["マンダヴィラス・フィスト", "Mandervillous Fists", "曼達維爾人拳套", "曼德维尔人拳套"],
-    ["マンダヴィラス・スピア", "Mandervillous Spear", "曼達維爾人長槍", "曼德维尔人长枪"],
+    ["マンダヴィラス・トライデント", "Mandervillous Trident", "曼達維爾人三叉戟", "曼德维尔人三尖枪"],
     ["マンダヴィラス・ナイフ", "Mandervillous Knives", "曼達維爾人匕首", "曼德维尔人匕首"],
     ["マンダヴィラス・サムライブレード", "Mandervillous Samurai Blade", "曼達維爾人武士刀", "曼德维尔人武士刀"],
-    ["マンダヴィラス・ウォーサイズ", "Mandervillous War Scythe", "曼達維爾人鐮刀", "曼德维尔人镰刀"],
+    ["マンダヴィラス・ザグナル", "Mandervillous Zaghnal", "曼達維爾人斧鐮", "曼德维尔人斧镰"],
 
-    ["マンダヴィラス・ハープボウ", "Mandervillous Harp Bow", "曼達維爾人琴弓", "曼德维尔人琴弓"],
-    ["マンダヴィラス・ハンドガン", "Mandervillous Pistol", "曼達維爾人手槍", "曼德维尔人手枪"],
+    ["マンダヴィラス・コンパウンドボウ", "Mandervillous Compound Bow", "曼達維爾人複合弓", "曼德维尔人复合弓"],
+    ["マンダヴィラス・リボルバー", "Mandervillous Revolver", "曼達維爾人左輪槍", "曼德维尔人左轮枪"],
     ["マンダヴィラス・チャクラム", "Mandervillous Chakrams", "曼達維爾人圓月輪", "曼德维尔人圆月轮"],
 
-    ["マンダヴィラス・スタッフ", "Mandervillous Staff", "曼達維爾人長杖", "曼德维尔人长杖"],
+    ["マンダヴィラス・ロッド", "Mandervillous Rod", "曼達維爾人法杖", "曼德维尔人法杖"],
     ["マンダヴィラス・インデックス", "Mandervillous Index", "曼達維爾人魔導書", "曼德维尔人魔导书"],
-    ["マンダヴィラス・デーゲン", "Mandervillous Degen", "曼達維爾人輕劍", "曼德维尔人轻剑"],
+    ["マンダヴィラス・レイピア", "Mandervillous Rapier", "曼達維爾人刺劍", "曼德维尔人刺剑"],
 
     ["//comment", "DOCUMENT END", "", ""]
 ]
