@@ -1,43 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="UTF-8" />
-        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>翻譯螢幕文字</title>
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>翻譯螢幕文字</title>
 
-        <!-- style -->
-        <link rel="stylesheet" href="css/bootstrap.min.css" />
-        <link rel="stylesheet" href="css/main.css" />
-    </head>
-    <body>
-        <div class="div-return">
-            <a href="./index.html">回首頁</a>
-        </div>
+    <!-- style -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div class="div-return">
+      <a href="./index.html">回首頁</a>
+    </div>
 
-        <ul>
-            <li>
-                <h3>使用方法</h3>
-                <span>
-                    點選
-                </span>
-                <img class="img-fluid img-ui" src="./img/ui/desktop_windows_white_24dp.svg" alt="picture" style="margin: 0;" />
-                <span>
-                    按鈕或是按下Ctrl+F11開啟【翻譯螢幕文字】視窗，然後在擷取視窗中選取欲翻譯的文字(如下方影片所示)
-                </span>
-                <br />
-                <iframe
-                    width="560"
-                    height="315"
-                    src="https://www.youtube.com/embed/yzQVAexpFDA"
-                    title="YouTube video player"
-                    frameborder="0"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowfullscreen
-                ></iframe>
-            </li>
+    <ul>
+      <li>
+        <h3>使用方法</h3>
+        <span> 點選 </span>
+        <img class="img-fluid img-ui" src="./img/ui/desktop_windows_white_24dp.svg" alt="picture" style="margin: 0" />
+        <span> 按鈕或是按下Ctrl+F11開啟【翻譯螢幕文字】視窗，然後在擷取視窗中選取欲翻譯的文字(如下方影片所示) </span>
+        <br />
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/yzQVAexpFDA"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </li>
 
-            <!--
+      <!--
             <li>
                 <h3>選取範圍</h3>
                 <br />
@@ -45,52 +41,51 @@
             </li>
             -->
 
-            <li>
-                <h3>全螢幕擷取</h3>
-                <span>使用Google Vision模式時可以點選【全螢幕擷取】按鈕取得全螢幕的文字</span>
-                <br />
-                <img class="img-fluid" src="./img/qa/qa10.png" alt="picture" />
-            </li>
+      <li>
+        <h3>全螢幕擷取</h3>
+        <span>使用Google Vision模式時可以點選【全螢幕擷取】按鈕取得全螢幕的文字</span>
+        <br />
+        <img class="img-fluid" src="./img/qa/qa10.png" alt="picture" />
+      </li>
 
-            <li>
-                <h3>擷取模式</h3>
-                <ul>
-                    <li>
-                        <h4>Google Vision(推薦)</h4>
-                        <span>
-                            文字辨識能力最精準，需取得Google憑證才能使用(
-                            <a href="sub-google-api.html" target="_blank">查看憑證取得教學</a>
-                            )
-                        </span>
-                    </li>
+      <li>
+        <h3>擷取模式</h3>
+        <ul>
+          <li>
+            <h4>Google Vision(推薦)</h4>
+            <span>
+              文字辨識能力最精準，需取得Google憑證才能使用(
+              <a href="sub-google-api.html" target="_blank">查看憑證取得教學</a>
+              )
+            </span>
+          </li>
 
-                    <li>
-                        <h4>Tesseract OCR</h4>
-                        <span>
-                            不需憑證也能使用，但辨識精準度較Google Vision差，錯字出現率較高，需手動編輯修正
-                        </span>
-                    </li>
-                </ul>
-            </li>
-
-            <li>
-                <h3>擷取設定</h3>
-                <ul>
-                    <li>
-                        <h4>換行切割</h4>
-                        <span>
-                            勾選後會以換行符號切割擷取的文字，然後各別翻譯之，欲翻譯對話選項請勾選此選項，若想要翻譯整個文章請取消勾選
-                        </span>
-                    </li>
-
-                    <li>
-                        <h4>編輯擷取文字</h4>
-                        <span>
-                            勾選後選取文字不會立即翻譯，而是跳出一個編輯視窗編輯擷取到的文字，可用來手動修正【Tesseract OCR】模式的錯字
-                        </span>
-                    </li>
-                </ul>
-            </li>
+          <li>
+            <h4>Tesseract OCR</h4>
+            <span> 不需憑證也能使用，但辨識精準度較Google Vision差，錯字出現率較高，需手動編輯修正 </span>
+          </li>
         </ul>
-    </body>
+      </li>
+
+      <li>
+        <h3>擷取設定</h3>
+        <ul>
+          <li>
+            <h4>換行切割</h4>
+            <span>
+              勾選後會以換行符號切割擷取的文字，然後各別翻譯之，欲翻譯對話選項請勾選此選項，若想要翻譯整個文章請取消勾選
+            </span>
+          </li>
+
+          <li>
+            <h4>編輯擷取文字</h4>
+            <span>
+              勾選後選取文字不會立即翻譯，而是跳出一個編輯視窗編輯擷取到的文字，可用來手動修正【Tesseract
+              OCR】模式的錯字
+            </span>
+          </li>
+        </ul>
+      </li>
+    </ul>
+  </body>
 </html>
