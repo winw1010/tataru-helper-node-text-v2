@@ -17,19 +17,19 @@
 
     <ol>
       <li>
-        <h3>這程式安全嗎</h3>
+        <h5>這程式安全嗎</h5>
         <span> 此程式無需修改FF14遊戲檔案，且翻譯功能皆使用API請求，請放心使用。 </span>
       </li>
 
       <li>
-        <h3>這程式怎麼運作的</h3>
+        <h5>這程式怎麼運作的</h5>
         <span>
           此程式會擷取記憶體中的對話字幕，然後使用API請求翻譯，最後將翻譯結果顯示在程式中。若有勾選名詞校正，則會盡量修正FFXIV的專有名詞。
         </span>
       </li>
 
       <li>
-        <h3>名詞沒有被正確翻譯</h3>
+        <h5>名詞沒有被正確翻譯</h5>
         <span>
           此程式只會修正
           <a target="_blank" href="https://github.com/winw1010/tataru-helper-node-text-v2">對照表</a>
@@ -38,36 +38,36 @@
       </li>
 
       <li>
-        <h3>這程式支援什麼語言</h3>
+        <h5>這程式支援什麼語言</h5>
         <span> 支援日文和英文，但翻譯以日文版為主。 </span>
       </li>
 
       <li>
-        <h3>能與漢化一起使用嗎</h3>
+        <h5>能與漢化一起使用嗎</h5>
         <span> 可以，程式有略過漢化字幕的功能。 </span>
       </li>
 
       <li>
-        <h3>如果遊戲是日文，聊天頻道是英文，該如何設定</h3>
+        <h5>如果遊戲是日文，聊天頻道是英文，該如何設定</h5>
         <span> 至【設定】>【翻譯】>將【遊戲語言】設定成日文，【玩家頻道】設定成英文即可。 </span>
       </li>
 
       <li>
-        <h3>Node視窗無法維持在最上層</h3>
+        <h5>Node視窗無法維持在最上層</h5>
         <span> 請在FF14的【系統設定】將【顯示模式】改為【無邊框全螢幕模式(Borderless Windowed)】。 </span>
         <br />
         <img class="img-fluid" src="./img/qa/qa4.png" alt="picture" />
       </li>
 
       <li>
-        <h3>每一句都要手動選取翻譯嗎</h3>
+        <h5>每一句都要手動選取翻譯嗎</h5>
         <span>
           不需要，除了對話選項和使用者介面以外都可以自動翻譯，不能自動翻譯的部分也能使用【翻譯螢幕文字】功能來翻譯。
         </span>
       </li>
 
       <li>
-        <h3>無法下載翻譯對照表</h3>
+        <h5>無法下載翻譯對照表</h5>
         <span>
           若您的地區或加速器或VPN無法使用Github，請至Tataru Helper
           Node的【設定(齒輪按鈕)】>【系統設定】，將SSL驗證關閉。
@@ -75,7 +75,7 @@
       </li>
 
       <li>
-        <h3>程式無法自動翻譯</h3>
+        <h5>程式無法自動翻譯</h5>
         <span>請依序嘗試以下步驟</span><br />
         <ol>
           <li>
@@ -98,36 +98,37 @@
           </li>
           <li>
             <span>
-              <a href="https://drive.google.com/file/d/1K35nAhHI9Pw9eV1i_DnjdIMqmYeTc2yC/view?usp=sharing">
-                下載fix.bat
-              </a>
-              ，然後對其滑鼠右鍵>以系統管理員執行，並按下任意鍵開始修復，修復完畢後重新啟動電腦即可
+              若以上方法仍無法自動翻譯，請在左下搜尋cmd，找到命令提示字元後對其滑鼠右鍵>以系統管理員執行，然後複製以下指令按Enter執行
+              <br />
+              <span class="text-warning">
+                secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose
+              </span>
             </span>
           </li>
         </ol>
       </li>
 
       <li>
-        <h3>如何翻譯對話選項和介面文字</h3>
+        <h5>如何翻譯對話選項和介面文字</h5>
         <a href="sub-capture.html" target="_blank">詳見【翻譯螢幕文字】說明頁</a>
       </li>
 
       <li>
-        <h3>如何重新翻譯</h3>
+        <h5>如何重新翻譯</h5>
         <span> 滑鼠點選程式的翻譯文字，再點選彈出視窗裡的【重新翻譯】按鈕即可 </span>
         <br />
         <img class="img-fluid" src="./img/qa/qa8.png" alt="picture" />
       </li>
 
       <li>
-        <h3>哪個翻譯引擎比較好</h3>
+        <h5>哪個翻譯引擎比較好</h5>
         <span>
           目前推薦使用【ChatGPT】，其次為【有道翻譯】和【彩雲小譯】，但上述翻譯引擎都會有翻不好的時候，遇到這情況請嘗試使用其他翻譯引擎(點選程式的翻譯文字選擇其他翻譯引擎重新翻譯)
         </span>
       </li>
 
       <li>
-        <h3>視窗半透明失效</h3>
+        <h5>視窗半透明失效</h5>
         <span>
           請將【NVIDIA控制面板】的【廣域設定】恢復成預設值(感謝avbkopye沒牙提供解法)
           <br />或是使用【全新安裝】的方式重新安裝NVIDIA驅動程式(安裝時選擇自訂即可看到此選項)
@@ -135,61 +136,66 @@
       </li>
 
       <li>
-        <h3>要等很久才會顯示翻譯</h3>
+        <h5>要等很久才會顯示翻譯</h5>
         <span>本應用程式是使用線上翻譯引擎， 因此翻譯速度取決於自身網路狀況和翻譯引擎方的伺服器狀況</span>
       </li>
 
       <li>
-        <h3>出現「翻譯錯誤」</h3>
+        <h5>出現「翻譯錯誤」</h5>
         <span> 原因是該翻譯引擎無法連線，或是遇到流量限制，只能等翻譯引擎解除限制，或是暫時使用別的翻譯引擎 </span>
       </li>
 
       <li>
-        <h3>如何移動視窗</h3>
+        <h5>如何移動視窗</h5>
         <span> 按住左上的 </span>
         <img class="img-fluid img-ui" src="./img/ui/drag_handle_white_48dp.svg" alt="" />
         <span> 按鈕即可移動視窗 </span>
       </li>
 
       <li>
-        <h3>旁白字幕無法擷取</h3>
+        <h5>旁白字幕無法擷取</h5>
         <span> 請使用最新版本的Tataru Helper Node </span>
       </li>
 
       <li>
-        <h3>無法套用變更後的設定</h3>
+        <h5>無法套用變更後的設定</h5>
         <span> 更改設定後需點選右下角的【儲存變更】按鈕才會生效 </span>
       </li>
 
       <li>
-        <h3>按鈕有點擋畫面</h3>
+        <h5>按鈕有點擋畫面</h5>
         <span> 開啟【設定】視窗，將【隱藏按鈕】打勾 </span>
       </li>
 
       <li>
-        <h3>如何重置設定</h3>
+        <h5>如何重置設定</h5>
         <span> 開啟【設定】視窗，點選【恢復預設】按鈕 </span>
       </li>
 
       <li>
-        <h3>如何查看程式錯誤訊息</h3>
+        <h5>如何查看程式錯誤訊息</h5>
         <span> Ctrl+F12 </span>
       </li>
 
       <li>
-        <h3>如何更新Tataru Helper Node</h3>
+        <h5>如何更新Tataru Helper Node</h5>
         <span>
-          <a href="https://home.gamer.com.tw/artwork.php?sn=5323128" target="_blank"> 請至這裡下載最新版本 </a>
+          <a
+            href="https://drive.google.com/drive/folders/14zjoUNzZTKgn2mCiAx6YJ14-fsd8M_I_?usp=drive_link"
+            target="_blank"
+          >
+            請至這裡下載最新版本
+          </a>
         </span>
       </li>
 
       <li>
-        <h3>如何移除Tataru Helper Node</h3>
+        <h5>如何移除Tataru Helper Node</h5>
         <span> 至【新增或移除程式】移除Tataru Helper Node </span>
       </li>
 
       <li>
-        <h3>如何查看錯誤回報的回覆</h3>
+        <h5>如何查看錯誤回報的回覆</h5>
         <span>
           <a
             href="https://docs.google.com/spreadsheets/d/1unaPwKFwJAQ9iSnNJ063BAjET5bRGybp5fxxvcG-Wr8/edit#gid=1976543446"
