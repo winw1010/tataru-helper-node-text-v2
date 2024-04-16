@@ -90,26 +90,24 @@
 
       <li>
         <h5>程式無法自動翻譯</h5>
-        <span>請依序嘗試以下步驟</span><br />
-        <ol>
-          <li>
-            <span>勾選下圖中的兩個選項(頻道任意，可以在不常用的頻道勾選這兩個選項)</span><br />
-            <img class="img-fluid" src="./img/qa/log.png" alt="picture" /><br />
-            <img class="img-fluid" src="./img/qa/log_en.png" alt="picture" />
-          </li>
-          <li>
-            <span>更新作業系統至最新版本</span>
-          </li>
+        <ul>
           <li>
             <span>
-              若以上方法仍無法自動翻譯，請在左下搜尋cmd，找到命令提示字元後對其滑鼠右鍵>以系統管理員執行，然後複製以下指令按Enter執行
-              <br />
-              <span class="text-warning">
-                secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose
-              </span>
+              至
+              <a href="https://drive.google.com/drive/folders/14zjoUNzZTKgn2mCiAx6YJ14-fsd8M_I_?usp=drive_link">
+                我的雲端
+              </a>
+              下載「fix.bat」，對其右鍵使用管理員身分執行，執行後按下任意鍵開始修復，修復完畢重新開機
             </span>
           </li>
-        </ol>
+          <li>
+            若無法下載fix.bat請在左下搜尋輸入「cmd」，找到「命令提示字元」對其滑鼠右鍵，點選「以系統管理員身分執行」，然後複製以下指令按下Enter執行
+            <br />
+            <span class="text-warning">
+              secedit /configure /cfg %windir%\inf\defltbase.inf /db defltbase.sdb /verbose
+            </span>
+          </li>
+        </ul>
       </li>
 
       <li>
