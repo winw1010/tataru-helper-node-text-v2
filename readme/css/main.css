@@ -18,9 +18,8 @@ li {
 img {
   margin-top: 0.7rem;
   margin-bottom: 0.7rem;
-  border: 0.1rem solid #808080;
+  /*border: 0.1rem solid #808080;*/
 }
-
 .img-ui {
   width: 2rem;
   height: 2rem;
