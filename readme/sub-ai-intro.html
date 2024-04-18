@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en" data-bs-theme="dark">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AI翻譯收費方式和使用說明</title>
+
+    <!-- style -->
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/main.css" />
+  </head>
+  <body>
+    <div class="div-return">
+      <a href="./index.html">回首頁</a>
+    </div>
+
+    <br />
+
+    <ul>
+      <li>
+        <h5>AI收費方式</h5>
+
+        <p>目前版本支援的AI模型和收費方式如下</p>
+        <table class="table">
+          <thead>
+            <tr>
+              <th>#</th>
+              <td>Cohere</td>
+              <td>GPT-3.5 Turbo</td>
+              <td>GPT-4 Turbo</td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th>收費方式</th>
+              <td>免費</td>
+              <td>
+                僅API流量計費，無需月費<br />
+                Input: $0.0005 / 1K tokens<br />
+                Output: $0.0015 / 1K tokens
+              </td>
+              <td>
+                月費 + API流量計費<br />
+                Input: $0.01 / 1K tokens<br />
+                Output: $0.03 / 1K tokens
+              </td>
+            </tr>
+
+            <tr>
+              <th>使用限制</th>
+              <td>每分鐘限制10次，一個月最多1000次</td>
+              <td>無</td>
+              <td>無</td>
+            </tr>
+          </tbody>
+        </table>
+      </li>
+
+      <li hidden>Gemini設定教學</li>
+      <li><a href="./sub-cohere-api.html" target="_blank">Cohere設定教學</a></li>
+      <li><a href="./sub-gpt-api.html" target="_blank">ChatGPT設定教學</a></li>
+    </ul>
+  </body>
+</html>
